@@ -1,0 +1,7 @@
+dataset,module,trials,accuracy,mean_confidence,overconfidence_gap,brier_score,ece
+id_test,execution,3000,0.903,0.7686,-0.1344,0.0753,0.1483
+id_test,perception,3000,0.9243,0.78,-0.1443,0.071,0.1534
+id_test,planning,3000,0.8757,0.7608,-0.1149,0.0827,0.144
+shifted_test,execution,3000,0.6543,0.7976,0.1433,0.2625,0.1608
+shifted_test,perception,3000,0.749,0.8041,0.0551,0.2059,0.1076
+shifted_test,planning,3000,0.88,0.796,-0.084,0.1292,0.1106
